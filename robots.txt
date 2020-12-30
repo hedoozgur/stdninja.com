@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://www.stdninja.com/sitemap.xml
+Sitemap: https://www.stdninja.com/sitemap.xml
