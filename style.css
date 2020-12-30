@@ -451,7 +451,7 @@ a img.aligncenter {
 	position: relative;
 }
 .top-navbar .navbar-light .navbar-nav .nav-link{
-	padding: 10px 18px;
+	padding: 10px 12px;
 	color: #ffffff;
 	position: relative;
 }
@@ -531,7 +531,7 @@ a img.aligncenter {
 	height: 100%;
 	top: 0;
 	left: 0;
-} 
+}
 
 .sl-slide {
 	z-index: 1;
@@ -2162,7 +2162,7 @@ select.mobile-device {
     color: #bcbcbc !important;
 }
 
-.contact_form {    
+.contact_form {
     background-color: #f2f3f5;
     padding: 40px 30px;
 }
@@ -2689,14 +2689,14 @@ body.seo_version .footer-links a:hover{
 	background: #333333;
 	display: inline-block;
 	color: #ffffff;
-	padding: 5px 10px;	
+	padding: 5px 10px;
 }
 
 .inner-container ul li a{
 	background: #333333;
 	display: inline-block;
 	color: #ffffff;
-	padding: 5px 10px;	
+	padding: 5px 10px;
 }
 .inner-container ul li a:hover{
 	color: #ffffff;
@@ -2732,7 +2732,7 @@ body.seo_version .footer-links a:hover{
 	padding: 15px 30px;
 	display: block;
 	font-size: 22px;
-	line-height: 26px;	
+	line-height: 26px;
 }
 .process-accordion .card-header h5 a i{
 	float: right;
@@ -2828,18 +2828,3 @@ body.seo_version .footer-links a:hover{
 	position: relative;
 	padding: 0px 15px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
